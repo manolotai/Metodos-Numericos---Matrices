@@ -1,0 +1,10 @@
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.exe.config
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.exe
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\bin\Debug\Matrices.pdb
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.csprojResolveAssemblyReference.cache
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.Cache
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.exe
+c:\users\manolo\documents\visual studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.pdb
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+C:\Users\Manolo\Documents\Visual Studio 2017\Projects\Matrices\Matrices\bin\Debug\Jace.dll
